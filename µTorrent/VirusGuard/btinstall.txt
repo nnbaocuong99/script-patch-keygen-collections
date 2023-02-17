@@ -1,0 +1,14 @@
+key:{A4D77A09-10EA-4574-8C09-9B6E1A21C95F}
+pretty_name:Antivirus
+update_url:https://activate.utorrent.com/get_av
+update_url_btinstall:https://activate.utorrent.com/get_av
+mixpanel:94b137b2c9f91462f37cdb1e3b8eac28
+publisher:BitDefender
+release_date:12/12/2016
+version:55
+description: A virus scanner that works from within BitTorrent. This targeted scanning app provides a critical layer of protection without wasting resources on a full disk scan.
+product_code:{A4D77A09-10EA-4574-8C09-9B6E1A21C95F}
+install_dir:VirusGuard
+signer:Bittorrent
+
+
