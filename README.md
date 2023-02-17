@@ -1,6 +1,6 @@
 ## ✨ in this repo, we have:
-- Window 10 script, bat, cmd file to active. 
-- Winrar keygen storage
-- FL Studio keygen, patch
-- Others , stil updating
-•
+- Window 10 active scripts, tools,...
+- fl studio patch file, keygen file
+- winrar regkey
+- raw script collections (still updating)
+- ... 
